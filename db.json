@@ -1,0 +1,15 @@
+{
+    "users": [{
+            "firstname": "alan",
+            "lastname": "allamm",
+            "age": 23,
+            "phone": 12334
+        },
+        {
+            "firstname": "john",
+            "lastname": "allamm",
+            "age": 29,
+            "phone": 23345
+        }
+    ]
+}
